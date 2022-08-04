@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "21w-780-communicating-in-technical-organizations-fall-2001"
+  },
+  "course_image": {
+    "content": "",
+    "website": "21w-780-communicating-in-technical-organizations-fall-2001"
+  },
+  "course_title": "Communicating in Technical Organizations",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.780",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "21w-780-communicating-in-technical-organizations-fall-2001"
+  },
+  "learning_resource_types": [],
+  "site_uid": "2ded0c71-2691-4dba-b28f-307afa1ec11e"
+}
